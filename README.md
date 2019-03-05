@@ -1,2 +1,2 @@
-# vyuka
+# Výuka
 Materiály ze seminářů
